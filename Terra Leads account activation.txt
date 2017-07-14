@@ -1,0 +1,161 @@
+                            <<<<<<<< SKYPE EN >>>>>>>>>>>
+
+Hi! Please, add me to your contact list. I'm account manager at Terra Leads. You've registered in our system as a webmaster. To activate your account I must ask you some questions. If someone of our managers already contacted you, just ignore this message, otherwise write me "hi!"
+
+
+                            <<<<<<<< SKYPE RU >>>>>>>>>>>
+
+Здравствуйте! Вы регистрировались в нашей системе как вебмастер. Для активации Вашего аккаунта я должен задать несколько вопросов. Если Вы уже общаетесь с кем-то из наших менеджеров, можете проигнорировать мой запрос, или добавьте меня и напишите сообщение в Skype
+
+
+                            <<<<<<<< EMAIL EN >>>>>>>>>>>
+
+Terra Leads account activation
+
+Hello, 
+
+my name is Maxim, I'm account manager at Terra Leads. You have leaved a request in Terra Leads system to add you as a webmaster. To activate your account I must ask you a couple of questions. Please, write me a message in Skype, my nickname is: maxim.terraleads
+If somebody of our account managers has already contacted you, you can just ignore this message.
+
+                            <<<<<<<< EMAIL RU >>>>>>>>>>>
+
+Активация аккаунта в Terra Leads                            
+
+Здравствуйте, 
+
+меня зовут Максим, я аккаунт-менеджер Terra Leads. Вы зарегистрировались в нашей системе в качестве веб-мастера. Для активации Вашего аккаунта я должен задать Вам несколько вопросов. Пожалуйста, напишите мне сообщение в Skype, мой ник: maxim.terraleads
+Если Вы уже общаетесь с кем-то из наших аккаунт-менеджеров, можете просто проигнорировать это сообщение.
+
+
+С уважением,
+
+Максим Суслов,
+Terra Leads
+skype: maxim.terraleads
+
+                                <<<<<<<< SCRIPT EN >>>>>>>>>>>
+
+Hello, you registered in our system. Did somebody of our account-managers already contact you?
+
+Do you have previous experience in affiliate marketing with product offers?
+
+Have you ever worked with CPA-networks?
+
+If you don't mind, please, answer the following questions to let me activate your account:
+0. Have you ever worked with product offers on CPA-basis?
+1. Planned volume of leads daily 
+2. Preferred offers (only vertical nutra - beauty, health, diet, adult)
+3. Preferred GEOs (currently only Europe)
+4. Traffic source(s)
+5. Other networks do you work with 
+6. Where did you find information about us
+
+I will be happy to answer your questions as well :)
+
+                               <<<<<<<< SCRIPT RU >>>>>>>>>>>
+
+
+Здравствуйте, вы регистрировались в нашей системе Terra Leads. С вами уже связывался кто-нибудь из наших аккаунт-менеджеров?
+
+1. Есть ли у Вас опыт работы с товарными офферами на бурж?
+2. Работали\работаете ли с другими CPA-сетями? Если да, то с какими?
+3. Какой объем лидов генерируете в месяц?
+4. Откуда узнали о Терра Лидс?
+5. Какие источники траффика используете?
+6. Какие ГЕО интересуют? (пока что только Европа)
+
+Буду также рад ответить на Ваши вопросы.
+
+								<<<<<<<<<< LEAD STATUS >>>>>>>>>>>>>
+
+By virtue of postback you can track your leads in our system and get postback to your tracker. Here are a couple of words about lead status: 
+1. User just fills the simple order form (in this moment we receive new lead with status expect)
+2. Contact center calls to user in order to receive order confirmation (phone number verification, getting of delivery address etc)
+2.1. If user declines the order the lead becomes the status reject
+2.2. if user provided wrong contact data the lead becomes the status trash
+2.3. If user confirms the order the lead becomes the status CONFIRM, The Pixel fires, you get the money
+
+
+								<<<<<<<<<<< CREATING STREAMS >>>>>>>>>>>>>
+
+To start work with our offers, you need to create stream (you need to choose offer, geo, landers and prelanders):
+ 
+1. Left side bar --> Streams
+2. Create stream
+3. You need to fill the simple form 
+3.1 "Name" - name of your stream (you can name it as you wish)
+3.2 "Product" - here you need to choose what offer you want to run. for example, Choco Lite is #1
+3.3 "Geo" - here you need to choose country. system will suggest you available landing and prelanding pages for this product and geo
+3.4 After this you need to choose landings and prelandings. Just put the check marks for that.
+ 
+and that's all! now push the "save" button and your stream is ready.
+
+After that in the stream you can see direct links with unique stream-ids after the last slash: www..../?alstream=xYZ
+You'll need to take a direct or tracker link and put it into your tracker and give it us for test. We can use our macros sub_id for your {clickid} or {tid} or {cid} or whatelse, for example, &sub_id={clickid}
+Then you put your link globally in Webmaster API in your profile to track all your campaigns.
+
+
+						<<<<<<<<<<<<<<< CALL CENTER APPROVAL TIME >>>>>>>>>>>>>>>>>>>>>>>>
+
+We have our own call-centers with native speakers for each country and "quick lead" system, so the customer leaves only his name and phone in order form on the landing page. Then our call-center calls him right after that (maybe 5 minutes after the order was made). If he doesn't answer, the call-center calls him in 30 minutes, then in 1 hour, then in 2 hours, then in 5 hours again. If the customer doesn't answer, this calling process is being made during 5 days, so the customer gets 25 call attempts until he is reached by our call-center, or if not, the lead comes to "trash". If the customer confirms the order, you get your provision right after that.
+
+
+						<<<<<<<<<<<<<<<< DOMAIN PARKING >>>>>>>>>>>>>>>>>>>>>>>>
+
+Some of our domains could get banned in fb, so you should park "white" domains in our system, and we will place our landings and presell pages on it, so they must be empty. 
+1. Buy a domain name
+2. To park your domain to the system, you must specify at your domain registrar panel such name servers:
+dns1.netbreeze.net
+dns2.netbreeze.net
+dns3.netbreeze.net
+Then add a domain to form under the link: https://terraleads.com/acp/sysDomain/new
+3. Then it appears in our system and we approve it.
+4. We add landings and presell pages to your domain and make it private for you
+5. For one landing page only one domain name can be used
+6.  Any amount or presell pages can be placed on one domain name (sub-domains will be created)
+
+
+Facebook может забанить аккаунты с нашими ссылками. Для таких случаев есть возможность свой (белый) домен припарковать у нас в системе:
+1. Покупается доменное имя. 
+2. Для парковки домена в нашей системе нужно в настройках своего домена указать такие адреса серверов:
+dns1.netbreeze.net
+dns2.netbreeze.net
+dns3.netbreeze.net
+3. Затем добавить домен к нам систему по ссылке: https://terraleads.com/acp/sysDomain/new
+4. Домен появляется в нашей системе со статусом "in processing". Затем нужно подождать немного, пока его активируют (это делается в ручном режиме, поэтому придется может денек подождать, не прямо сразу автоматически).
+5. Мы заливаем наши лендинги или преленды на этот домен и делаем их "приватными" - никто кроме Вас не сможет использовать этот домен.
+
+
+								<<<<<<<<<<<<<<<<< GEOS >>>>>>>>>>>>>>>>>>>>
+
+Which geos are you interested in? We have currently 12 geos in EU:
+Italy
+Spain
+Hungary
+Poland
+France
+Portugal
+România
+Cyprus
+Greece
+Slovakia
+Czech Republic
+Bulgaria
+
+                            <<<<<<<<<<<<<<<<<<< PAYMENTS >>>>>>>>>>>>>>>>>>>
+
+We pay for confirmed leads. Payouts are up to 25 USD depending on offers and geos. We have "quick lead" system, the customer leaves in order form only his name and phone number. Our call center calls the customer in his language and approves the order. After the order is confirmed, you get your money.
+
+                        <<<<<<<<<<<<<<<<< QUICK LEAD SYSTEM >>>>>>>>>>>>>>>>>>>>>>>
+
+We work with our own in-house product offers in vertical nutra (beauty, health, diet, adult) with COD (cash on delivery) and "quick lead" system: the customer leaves only his name and phone number in order form, and after that our call centers (highly-trained native-speakers) call them and confirm the order. Right after the order is approved, you get your money. Is that interesting for you?
+
+
+    <<<<<<<<<<<<<<<<< USA potential affiliates (unknown traffic geo) >>>>>>>>>>>>>>>>>>>>>>>>>>
+
+ If you have traffic for Europe, we have good product offers to promote and are looking for affiliates, who can provide us traffic (leads) to those offers in EU-area. Our vertical is nutra (beauty, health, diet, adult).
+
+
+ Our best geos are IT, ES, PT, GR, BG, CY, HU and the best offers are Osteoren, Choco Lite, BigBust, Titan Premium, Varyforte, Royal Black Mask
+
+Hi, here is our statistics for the last month, I leaved there only our top-offers. I cannot tell you more, and you must understand, that you cannot rely only on statistics, I cannot guarantee you anything. The situation may vary on weekends or under some unforeseen circumstances, the statistics for the last week may look completely different than for the last year, please consider this. The best preselling and landing pages you can find, when you create a stream, just choose them with higher coefficient percentage, and choose better the pages with (Adaptive) mark, that means, they are mobile adapted and fully responsive
